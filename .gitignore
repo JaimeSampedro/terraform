@@ -1,0 +1,7 @@
+modules/azurecli/.terraform/plugins/windows_amd64/terraform-provider-null_v2.1.2_x4.exe
+modules/kvt/.terraform/plugins/windows_amd64/terraform-provider-azurerm_v1.39.0_x4.exe
+modules/rsg/.terraform/plugins/windows_amd64/terraform-provider-azurerm_v1.39.0_x4.exe
+modules/rsggit/.terraform/modules/modules.json
+modules/rsggit/.terraform/plugins/windows_amd64/lock.json
+modules/rsggit/.terraform/plugins/windows_amd64/terraform-provider-azurerm_v1.40.0_x4.exe
+modules/storageaccount/.terraform/plugins/windows_amd64/terraform-provider-azurerm_v1.40.0_x4.exe
